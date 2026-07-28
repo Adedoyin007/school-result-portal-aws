@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bright Future College | Student Result Portal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="header-content">
+        <img src="assets/images/logo.png" alt="School Logo" class="logo">
+
+        <div>
+            <h1>Bright Future College</h1>
+            <p>Excellence • Discipline • Integrity</p>
+            <small>Student Result Checking Portal</small>
+        </div>
+    </div>
+</header>
+
+<main>
+
+<section class="search-card">
+
+<h2>Check Your Result</h2>
+
+<label>Academic Session</label>
+
+<select id="session">
+<option>2025/2026</option>
+</select>
+
+<label>Term</label>
+
+<select id="term">
+<option>Third Term</option>
+</select>
+
+<label>Student ID</label>
+
+<input
+type="text"
+id="studentId"
+placeholder="Enter Student ID (Example: ST001)">
+
+<button onclick="checkResult()">
+
+Check Result
+
+</button>
+
+</section>
+
+<section id="resultSection" class="result-card">
+
+<h2>Student Result</h2>
+
+<div class="student-info">
+
+<div class="passport">
+
+<img id="studentPassport"
+     src="assets/images/student-placeholder.png"
+     alt="Student Passport">
+
+</div>
+
+<div>
+
+<p><strong>Name:</strong> <span id="studentName"></span></p>
+
+<p><strong>Student ID:</strong> <span id="studentIDDisplay"></span></p>
+
+<p><strong>Class:</strong> <span id="studentClass"></span></p>
+
+<p><strong>Session:</strong> <span id="studentSession"></span></p>
+
+<p><strong>Term:</strong> <span id="studentTerm"></span></p>
+
+</div>
+
+</div>
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>Subject</th>
+
+<th>Score</th>
+
+</tr>
+
+</thead>
+
+<tbody id="subjectTable">
+
+</tbody>
+
+</table>
+
+<div class="summary">
+
+<p><strong>Total:</strong> <span id="total"></span></p>
+
+<p><strong>Average:</strong> <span id="average"></span></p>
+
+<p><strong>Grade:</strong> <span id="grade"></span></p>
+
+<p><strong>Remark:</strong> <span id="remark"></span></p>
+
+</div>
+
+<div class="signature">
+
+<div>
+
+____________________
+
+<p>Principal</p>
+
+</div>
+
+<div>
+
+School Stamp
+
+</div>
+
+</div>
+
+<button onclick="window.print()">
+
+Print Result
+
+</button>
+
+</section>
+
+</main>
+
+<footer>
+
+<p>© 2026 Bright Future College</p>
+
+<p>Cloud Computing Capstone Project</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>

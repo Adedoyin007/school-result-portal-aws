@@ -1,0 +1,212 @@
+[
+  {
+    "studentId": "ST001",
+    "name": "Emmanuel Adedoyin",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 82,
+      "Mathematics": 91,
+      "Physics": 88,
+      "Chemistry": 79,
+      "Biology": 85
+    }
+  },
+  {
+    "studentId": "ST002",
+    "name": "Grace Johnson",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 76,
+      "Mathematics": 81,
+      "Physics": 74,
+      "Chemistry": 72,
+      "Biology": 80
+    }
+  },
+  {
+    "studentId": "ST003",
+    "name": "Daniel Williams",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 65,
+      "Mathematics": 69,
+      "Physics": 71,
+      "Chemistry": 66,
+      "Biology": 70
+    }
+  },
+  {
+    "studentId": "ST004",
+    "name": "Sarah Ahmed",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 91,
+      "Mathematics": 95,
+      "Physics": 93,
+      "Chemistry": 90,
+      "Biology": 94
+    }
+  },
+  {
+    "studentId": "ST005",
+    "name": "Michael Brown",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 58,
+      "Mathematics": 62,
+      "Physics": 60,
+      "Chemistry": 59,
+      "Biology": 61
+    }
+  },
+  {
+    "studentId": "ST006",
+    "name": "Blessing Okafor",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 84,
+      "Mathematics": 86,
+      "Physics": 80,
+      "Chemistry": 83,
+      "Biology": 87
+    }
+  },
+  {
+    "studentId": "ST007",
+    "name": "David Musa",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 47,
+      "Mathematics": 52,
+      "Physics": 49,
+      "Chemistry": 55,
+      "Biology": 50
+    }
+  },
+  {
+    "studentId": "ST008",
+    "name": "Esther Adebayo",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 78,
+      "Mathematics": 82,
+      "Physics": 79,
+      "Chemistry": 80,
+      "Biology": 81
+    }
+  },
+  {
+    "studentId": "ST009",
+    "name": "Samuel Ibrahim",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 68,
+      "Mathematics": 72,
+      "Physics": 70,
+      "Chemistry": 69,
+      "Biology": 73
+    }
+  },
+  {
+    "studentId": "ST010",
+    "name": "Joy Eze",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 88,
+      "Mathematics": 92,
+      "Physics": 89,
+      "Chemistry": 90,
+      "Biology": 91
+    }
+  },
+  {
+    "studentId": "ST011",
+    "name": "Victor Thomas",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 54,
+      "Mathematics": 57,
+      "Physics": 59,
+      "Chemistry": 56,
+      "Biology": 60
+    }
+  },
+  {
+    "studentId": "ST012",
+    "name": "Faith Nwosu",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 95,
+      "Mathematics": 98,
+      "Physics": 96,
+      "Chemistry": 94,
+      "Biology": 97
+    }
+  },
+  {
+    "studentId": "ST013",
+    "name": "Isaac Bello",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 62,
+      "Mathematics": 64,
+      "Physics": 66,
+      "Chemistry": 61,
+      "Biology": 65
+    }
+  },
+  {
+    "studentId": "ST014",
+    "name": "Hannah Ojo",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 74,
+      "Mathematics": 78,
+      "Physics": 75,
+      "Chemistry": 77,
+      "Biology": 76
+    }
+  },
+  {
+    "studentId": "ST015",
+    "name": "Peter Chukwu",
+    "class": "SS3",
+    "term": "Third Term",
+    "session": "2025/2026",
+    "subjects": {
+      "English": 43,
+      "Mathematics": 45,
+      "Physics": 41,
+      "Chemistry": 48,
+      "Biology": 44
+    }
+  }
+]

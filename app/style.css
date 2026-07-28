@@ -1,0 +1,181 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#eef3f9;
+    color:#333;
+}
+
+header{
+    background:#003366;
+    color:white;
+    padding:25px;
+    box-shadow:0 3px 10px rgba(0,0,0,.2);
+}
+
+.header-content{
+    max-width:1100px;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    gap:20px;
+}
+
+.logo{
+    width:90px;
+    height:90px;
+    border-radius:50%;
+    background:white;
+    object-fit:cover;
+}
+
+header h1{
+    margin-bottom:8px;
+}
+
+header p{
+    margin-bottom:5px;
+}
+
+main{
+    max-width:1100px;
+    margin:40px auto;
+    padding:20px;
+}
+
+.search-card,
+.result-card{
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 5px 20px rgba(0,0,0,.12);
+    margin-bottom:30px;
+}
+
+.search-card h2,
+.result-card h2{
+    color:#003366;
+    margin-bottom:25px;
+}
+
+label{
+    display:block;
+    margin-top:15px;
+    margin-bottom:8px;
+    font-weight:bold;
+}
+
+input,
+select{
+    width:100%;
+    padding:12px;
+    border:1px solid #ccc;
+    border-radius:6px;
+    font-size:16px;
+}
+
+button{
+    margin-top:25px;
+    width:100%;
+    padding:14px;
+    border:none;
+    border-radius:6px;
+    background:#0056b3;
+    color:white;
+    font-size:17px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+button:hover{
+    background:#003d80;
+}
+
+.student-info{
+    display:flex;
+    gap:30px;
+    margin:25px 0;
+    align-items:center;
+}
+
+.passport img{
+    width:140px;
+    height:160px;
+    border:2px solid #003366;
+    object-fit:cover;
+}
+
+.student-info p{
+    margin-bottom:10px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+th{
+    background:#003366;
+    color:white;
+}
+
+th,
+td{
+    border:1px solid #ddd;
+    padding:12px;
+    text-align:center;
+}
+
+.summary{
+    margin-top:25px;
+    background:#f4f7fb;
+    padding:20px;
+    border-radius:8px;
+}
+
+.summary p{
+    margin-bottom:10px;
+    font-size:17px;
+}
+
+.signature{
+    margin-top:40px;
+    display:flex;
+    justify-content:space-between;
+    text-align:center;
+}
+
+footer{
+    margin-top:40px;
+    padding:25px;
+    background:#003366;
+    color:white;
+    text-align:center;
+}
+
+#resultSection{
+    display:none;
+}
+
+@media(max-width:768px){
+
+.header-content{
+    flex-direction:column;
+    text-align:center;
+}
+
+.student-info{
+    flex-direction:column;
+}
+
+.signature{
+    flex-direction:column;
+    gap:30px;
+}
+
+}
