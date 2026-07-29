@@ -1,6 +1,19 @@
 # school-result-portal-aws
 A cloud-based school result portal deployed on AWS using Terraform
 
+# Bright Future College – Student Result Portal (AWS)
+
+## Live Application
+
+🌐 **Website:** http://3.8.10.238
+
+## GitHub Repository
+
+https://github.com/Adedoyin007/school-result-portal-aws
+
+## Project Overview
+
+This project is a cloud-based Student Result Portal deployed on AWS using Terraform. It allows students to check their academic results online by entering their details.
 
 # 🎓 School Result Portal on AWS using Terraform
 ## 📌 Project Overview
