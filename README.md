@@ -11,6 +11,18 @@ A cloud-based school result portal deployed on AWS using Terraform
 
 https://github.com/Adedoyin007/school-result-portal-aws
 
+## 🎥 Project Demo Video
+
+This video demonstrates:
+
+- Deploying the application with Terraform
+- Provisioning AWS infrastructure
+- Automatic application deployment using User Data
+- Accessing the live website
+- Verifying the Student Result Portal functionality
+
+▶ **Watch the Demo:** https://youtu.be/0jix8ngaV14
+
 ## Project Overview
 
 This project is a cloud-based Student Result Portal deployed on AWS using Terraform. It allows students to check their academic results online by entering their details.
