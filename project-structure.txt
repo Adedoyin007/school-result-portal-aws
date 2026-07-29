@@ -1,0 +1,61 @@
+.
+├── LICENSE
+├── README.md
+├── app
+│   ├── assets
+│   │   └── images
+│   │       ├── ST001.jpeg:Zone.Identifier
+│   │       ├── ST001.jpg
+│   │       ├── ST002.jpeg:Zone.Identifier
+│   │       ├── ST002.jpg
+│   │       ├── ST003.jpeg:Zone.Identifier
+│   │       ├── ST003.jpg
+│   │       ├── ST004.jpeg:Zone.Identifier
+│   │       ├── ST004.jpg
+│   │       ├── ST005.jpeg:Zone.Identifier
+│   │       ├── ST005.jpg
+│   │       ├── ST006.jpeg:Zone.Identifier
+│   │       ├── ST006.jpg
+│   │       ├── ST007.jpeg:Zone.Identifier
+│   │       ├── ST007.jpg
+│   │       ├── ST008.jpeg:Zone.Identifier
+│   │       ├── ST008.jpg
+│   │       ├── ST009.jpeg:Zone.Identifier
+│   │       ├── ST009.jpg
+│   │       ├── ST010.jpeg:Zone.Identifier
+│   │       ├── ST010.jpg
+│   │       ├── ST011.jpeg:Zone.Identifier
+│   │       ├── ST011.jpg
+│   │       ├── ST012.jpeg:Zone.Identifier
+│   │       ├── ST012.jpg
+│   │       ├── ST013.jpeg:Zone.Identifier
+│   │       ├── ST013.jpg
+│   │       ├── ST014.jpeg:Zone.Identifier
+│   │       ├── ST014.jpg
+│   │       ├── ST015.jpeg:Zone.Identifier
+│   │       ├── ST015.jpg
+│   │       ├── logo.jpeg:Zone.Identifier
+│   │       └── logo.png
+│   ├── index.html
+│   ├── script.js
+│   ├── students.json
+│   └── style.css
+├── diagrams
+├── docs
+│   ├── 01-project-overview.md
+│   ├── 02-terraform.md
+│   ├── 03-deployment.md
+│   ├── 04-testing.md
+│   └── 05-cost-analysis.md
+├── project-structure.txt
+├── screenshots
+└── terraform
+    ├── main.tf
+    ├── outputs.tf
+    ├── provider.tf
+    ├── terraform.tfstate
+    ├── terraform.tfstate.backup
+    ├── userdata.sh
+    └── variables.tf
+
+8 directories, 51 files
